@@ -1,0 +1,5 @@
+---
+- name: Example task
+  debug:
+    msg: "This is an example role from the submodule"
+
